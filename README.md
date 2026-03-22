@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Vali
 
-<!--
-**ValentinNimigean/ValentinNimigean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Software Engineering & Computer Science Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a software engineering student with a deep focus on **Machine Learning and Algorithmics**. I love bridging the gap between heavy, low-level computer science concepts and clean, scalable user experiences. Whether I'm optimizing C++ algorithms, building out C# backends, or designing UI/UX, I thrive in the space where complex logic meets creative execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm Up To
+- **Studying:** Bachelor's in Computer Science, focusing heavily on algorithmics and C++.
+- **Currently Working On:** Part-time UI/UX and Frontend Dev (Vue.js/React) for an open-source, E2EE messaging and voice-chat application.
+- **Previously:** Built greenfield C#/.NET backend architectures (with Hangfire background jobs) and enterprise ELT data pipelines using Oracle Data Integrator (ODI).
+- **Always Learning:** Exploring new ways to optimize system performance and build secure, privacy-first web applications.
+
+---
+
+### Tech Stack & Tools
+
+**Languages & Core:** `C++` `C#` `JavaScript / TypeScript` `SQL`
+
+**Frontend & Design:** `Vue.js` `React` `UI/UX Design` `Figma`
+
+**Backend & Architecture:** `.NET` `Hangfire` `Asynchronous Processing` `REST APIs`
+
+**Data & Machine Learning:** `Algorithmics` `Machine Learning` `Oracle Data Integrator (ODI)`
+
+---
+
+### Beyond the Screen
+When I'm not deep in a codebase or studying ML algorithms, I'm usually exploring the creative side of things. I'm highly passionate about:
+- **Audio Engineering & Music:** Tweaking mixes, producing, and exploring sound design.
+- **Archival Fashion:** Studying the history and construction of archival pieces.
+- **Internet History & Culture:** Falling down deep rabbit holes of how digital culture has evolved. 
+
+---
+
+### Let's Connect
+- **LinkedIn:** https://www.linkedin.com/in/valentin-nimigean-92a86a332/
