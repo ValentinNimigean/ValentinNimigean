@@ -28,6 +28,12 @@ I'm a software engineering student with a deep focus on **Machine Learning and A
 
 ### Beyond the Screen
 When I'm not deep in a codebase or studying ML algorithms, I'm usually exploring the creative side of things. I'm highly passionate about:
+
+
+
+### 📊 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValentinNimigean&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinNimigean&layout=compact&theme=radical)
 - **Audio Engineering & Music:** Tweaking mixes, producing, and exploring sound design.
 - **Archival Fashion:** Studying the history and construction of archival pieces.
 - **Internet History & Culture:** Falling down deep rabbit holes of how digital culture has evolved. 
