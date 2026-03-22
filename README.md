@@ -41,6 +41,11 @@ When I'm not deep in a codebase or studying ML algorithms, I'm usually exploring
 
 
 ### 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValentinNimigean&show_icons=true&theme=radical)
+
+### 📈 My GitHub Activity & Commit History
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinNimigean&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinNimigean&layout=compact&theme=radical)
 
